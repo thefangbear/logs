@@ -1,0 +1,115 @@
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+-G: 190
+--size: 6000
+30: Size: 1134001, Displacement: 35340050.
+29: Size: 1134001, Displacement: 34200050.
+3: Size: 1134001, Displacement: 4560050.
+31: Size: 1, Displacement: 1297293361.
+9: Size: 1134001, Displacement: 11400050.
+23: Size: 1134001, Displacement: 27360050.
+5: Size: 1134001, Displacement: 6840050.
+14: Size: 1134001, Displacement: 17100050.
+21: Size: 1134001, Displacement: 25080050.
+20: Size: 1134001, Displacement: 23940050.
+28: Size: 1134001, Displacement: 33060050.
+25: Size: 1134001, Displacement: 29640050.
+6: Size: 1134001, Displacement: 7980050.
+4: Size: 1134001, Displacement: 5700050.
+1: Size: 1134001, Displacement: 2280050.
+15: Size: 1134001, Displacement: 18240050.
+24: Size: 1134001, Displacement: 28500050.
+13: Size: 1134001, Displacement: 15960050.
+2: Size: 1134001, Displacement: 3420050.
+7: Size: 1134001, Displacement: 9120050.
+10: Size: 1134001, Displacement: 12540050.
+27: Size: 1134001, Displacement: 31920050.
+12: Size: 1134001, Displacement: 14820050.
+26: Size: 1134001, Displacement: 30780050.
+19: Size: 1134001, Displacement: 22800050.
+17: Size: 1134001, Displacement: 20520050.
+11: Size: 1134001, Displacement: 13680050.
+16: Size: 1134001, Displacement: 19380050.
+22: Size: 1134001, Displacement: 26220050.
+18: Size: 1134001, Displacement: 21660050.
+8: Size: 1134001, Displacement: 10260050.
+0: Size: 1134189, Displacement: 1140050.
+[mpi2:28495] *** Process received signal ***
+[mpi2:28495] Signal: Segmentation fault (11)
+[mpi2:28495] Signal code: Address not mapped (1)
+[mpi2:28495] Failing at address: 0x7f22352010d4
+[mpi2:28495] [ 0] /lib64/libpthread.so.0(+0xf370)[0x7f2130486370]
+[mpi2:28495] [ 1] /lib64/libc.so.6(+0x14b460)[0x7f2130201460]
+[mpi2:28495] [ 2] /usr/local/lib/libopen-pal.so.20(opal_convertor_pack+0x175)[0x7f212fb7beb5]
+[mpi2:28495] [ 3] /usr/local/lib/openmpi/mca_btl_vader.so(mca_btl_vader_sendi+0x353)[0x7f2126bc6c23]
+[mpi2:28495] [ 4] /usr/local/lib/openmpi/mca_pml_ob1.so(+0x901b)[0x7f21263a701b]
+[mpi2:28495] [ 5] /usr/local/lib/openmpi/mca_pml_ob1.so(mca_pml_ob1_send+0x46e)[0x7f21263a7f3e]
+[mpi2:28495] [ 6] /usr/local/lib/openmpi/mca_coll_basic.so(mca_coll_basic_scatterv_intra+0x199)[0x7f2125b74db9]
+[mpi2:28495] [ 7] /usr/local/lib/libmpi.so.20(MPI_Scatterv+0x120)[0x7f21307015d0]
+[mpi2:28495] [ 8] ./MPI_Test_Programs[0x401d15]
+[mpi2:28495] [ 9] /lib64/libc.so.6(__libc_start_main+0xf5)[0x7f21300d7b35]
+[mpi2:28495] [10] ./MPI_Test_Programs[0x400c49]
+[mpi2:28495] *** End of error message ***
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node mpi2 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

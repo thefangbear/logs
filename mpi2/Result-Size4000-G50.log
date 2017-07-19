@@ -1,0 +1,97 @@
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+-G: 50
+--size: 4000
+2: Size: 200000, Displacement: 400000.
+4: Size: 200000, Displacement: 800000.
+6: Size: 200000, Displacement: 1200000.
+9: Size: 200000, Displacement: 1800000.
+13: Size: 200000, Displacement: 2600000.
+16: Size: 200000, Displacement: 3200000.
+24: Size: 200000, Displacement: 4800000.
+30: Size: 200000, Displacement: 6000000.
+11: Size: 200000, Displacement: 2200000.
+26: Size: 200000, Displacement: 5200000.
+1: Size: 200000, Displacement: 200000.
+7: Size: 200000, Displacement: 1400000.
+12: Size: 200000, Displacement: 2400000.
+14: Size: 200000, Displacement: 2800000.
+20: Size: 200000, Displacement: 4000000.
+25: Size: 200000, Displacement: 5000000.
+17: Size: 200000, Displacement: 3400000.
+29: Size: 200000, Displacement: 5800000.
+5: Size: 200000, Displacement: 1000000.
+28: Size: 200000, Displacement: 5600000.
+3: Size: 200000, Displacement: 600000.
+8: Size: 200000, Displacement: 1600000.
+15: Size: 200000, Displacement: 3000000.
+19: Size: 200000, Displacement: 3800000.
+23: Size: 200000, Displacement: 4600000.
+22: Size: 200000, Displacement: 4400000.
+21: Size: 200000, Displacement: 4200000.
+27: Size: 200000, Displacement: 5400000.
+31: Size: 9800000, Displacement: 6200000.
+10: Size: 200000, Displacement: 2000000.
+18: Size: 200000, Displacement: 3600000.
+0: Size: 200000, Displacement: 0.
+Master: T Cost: 0.000006 sec. Init cost: 0.000000 sec. Alloc Cost: 0.138496 sec. Comp cost: 188.797689 sec. Total cost: 188.936192 sec.

@@ -1,0 +1,97 @@
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+-G: 10
+--size: 5000
+8: Size: 50000, Displacement: 400000.
+19: Size: 50000, Displacement: 950000.
+21: Size: 50000, Displacement: 1050000.
+31: Size: 23450000, Displacement: 1550000.
+20: Size: 50000, Displacement: 1000000.
+24: Size: 50000, Displacement: 1200000.
+26: Size: 50000, Displacement: 1300000.
+16: Size: 50000, Displacement: 800000.
+27: Size: 50000, Displacement: 1350000.
+7: Size: 50000, Displacement: 350000.
+22: Size: 50000, Displacement: 1100000.
+18: Size: 50000, Displacement: 900000.
+3: Size: 50000, Displacement: 150000.
+1: Size: 50000, Displacement: 50000.
+0: Size: 50000, Displacement: 0.
+28: Size: 50000, Displacement: 1400000.
+9: Size: 50000, Displacement: 450000.
+12: Size: 50000, Displacement: 600000.
+15: Size: 50000, Displacement: 750000.
+13: Size: 50000, Displacement: 650000.
+2: Size: 50000, Displacement: 100000.
+30: Size: 50000, Displacement: 1500000.
+5: Size: 50000, Displacement: 250000.
+29: Size: 50000, Displacement: 1450000.
+11: Size: 50000, Displacement: 550000.
+4: Size: 50000, Displacement: 200000.
+17: Size: 50000, Displacement: 850000.
+14: Size: 50000, Displacement: 700000.
+6: Size: 50000, Displacement: 300000.
+25: Size: 50000, Displacement: 1250000.
+10: Size: 50000, Displacement: 500000.
+23: Size: 50000, Displacement: 1150000.
+Master: T Cost: 0.000005 sec. Init cost: 0.000000 sec. Alloc Cost: 0.136622 sec. Comp cost: 589.755380 sec. Total cost: 589.892007 sec.
