@@ -1,0 +1,39 @@
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+--size: 10000
+1: Size: 5260000, Displacement: 5260000.
+7: Size: 5260000, Displacement: 36820000.
+11: Size: 5260000, Displacement: 57860000.
+13: Size: 5260000, Displacement: 68380000.
+9: Size: 5260000, Displacement: 47340000.
+15: Size: 5260000, Displacement: 78900000.
+17: Size: 5260000, Displacement: 89420000.
+4: Size: 5260000, Displacement: 21040000.
+3: Size: 5260000, Displacement: 15780000.
+6: Size: 5260000, Displacement: 31560000.
+12: Size: 5260000, Displacement: 63120000.
+18: Size: 5320000, Displacement: 94680000.
+2: Size: 5260000, Displacement: 10520000.
+5: Size: 5260000, Displacement: 26300000.
+8: Size: 5260000, Displacement: 42080000.
+10: Size: 5260000, Displacement: 52600000.
+14: Size: 5260000, Displacement: 73640000.
+16: Size: 5260000, Displacement: 84160000.
+0: Size: 5260000, Displacement: 0.
+Master: T Cost: 0.000004 sec. Init cost: 0.000000 sec. Alloc Cost: 0.547868 sec. Comp cost: 244.127167 sec. Total cost: 244.675039 sec.

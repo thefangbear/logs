@@ -1,0 +1,7 @@
+--size: 10000
+--size: 10000
+--size: 10000
+1: Size: 33330000, Displacement: 33330000.
+2: Size: 33340000, Displacement: 66660000.
+0: Size: 33330000, Displacement: 0.
+Master: T Cost: 0.000005 sec. Init cost: 0.000000 sec. Alloc Cost: 0.471507 sec. Comp cost: 1283.476084 sec. Total cost: 1283.947596 sec.
